@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --rm -p 3000:3000 bkimminich/juice-shop
+sudo docker run --rm -p 3000:3000 bkimminich/juice-shop
